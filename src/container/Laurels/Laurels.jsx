@@ -1,4 +1,6 @@
-import { SubHeading } from '../../components';
+// import { SubHeading } from '../../components';
+
+import SubHeading from '../../components/SubHeading/SubHeading';
 import { images, data } from '../../constants';
 import './Laurels.css';
 

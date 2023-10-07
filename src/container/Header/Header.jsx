@@ -1,4 +1,5 @@
-import { SubHeading } from '../../components';
+//import { SubHeading } from '../../components';
+import SubHeading from '../../components/SubHeading/SubHeading';
 import { images } from '../../constants';
 import './Header.css';
 
